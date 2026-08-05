@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @11dsmasu
 - 👀 I’m interested in developing new skills in coding and learning new programming languaguages.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning about AI, Automation and Machine Learning. The tools I am using are Claude, n8n and Gemini.
 - 💞️ I’m looking to collaborate on projects that are coded in React, JavaScript, HTML5 and CSS.
 - 📫 How to reach me via gmail masudulcie@gmail.com 
 
